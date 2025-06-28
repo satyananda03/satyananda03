@@ -16,7 +16,6 @@
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=tensorrt&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-3670A0.svg?style=for-the-badge&logo=esp32&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-025DB9.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 # 📊 GitHub Stats:
