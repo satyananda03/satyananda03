@@ -15,6 +15,8 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=tensorrt&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-025DB9.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=satyananda03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
