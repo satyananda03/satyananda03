@@ -20,7 +20,8 @@
 ![NVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-025DB9.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-%2313AA52?style=for-the-badge&logo=mlflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-%235BC0EB?style=for-the-badge&logo=mlflow&logoColor=white)
+
 
 
 # 📊 GitHub Stats:
