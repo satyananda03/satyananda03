@@ -14,8 +14,11 @@
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=%23FFD21E)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-025DB9.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
 
 
 
