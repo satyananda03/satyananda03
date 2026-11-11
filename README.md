@@ -18,8 +18,11 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=satyananda03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=satyananda03&theme=dark&hide_border=false)<br/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📊 GitHub Stats
+<p align="center">
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=satyananda03&show_icons=true&theme=dark" />
+  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyananda03&layout=compact&langs_count=6&theme=dark" />
+</p>
+<p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=satyananda03&theme=dark" />
+</p>
