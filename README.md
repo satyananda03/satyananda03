@@ -20,8 +20,8 @@
 
 # 📊 GitHub Stats
 <p align="center">
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=satyananda03&show_icons=true&theme=dark" />
-  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyananda03&layout=compact&langs_count=6&theme=dark" />
+  <img height="165" alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=satyananda03&show_icons=true&theme=dark" />
+  <img height="165" alt="Top Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=satyananda03&layout=compact&langs_count=6&theme=dark" />
 </p>
 <p align="center">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=satyananda03&theme=dark" />
